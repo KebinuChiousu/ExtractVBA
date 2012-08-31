@@ -6,5 +6,5 @@ Extracts Codes from Excel Macro-Enabled Workbooks (*.xlsm) to simplify putting c
 Notes:
 =================
 
-This code contains libraries from EPPlus
+This code contains libraries from EPPlus.
 Sourcecode for this library is available at https://epplus.codeplex.com/
